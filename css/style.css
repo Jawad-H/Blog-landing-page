@@ -1,0 +1,57 @@
+html,
+body{
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Georama', sans-serif;
+}
+
+
+.bg-image{
+
+    background-image: url('https://cdn.pixabay.com/photo/2017/03/27/14/31/stars-2179083_960_720.jpg');
+    height: 550px;
+
+}
+
+#showAll{
+    margin-left: 50rem;
+}
+
+#cat{
+background: rgb(18,90,222);
+background: linear-gradient(90deg, rgba(18,90,222,1) 0%, rgba(195,178,178,1) 0%, rgba(228,217,217,1) 5%);
+}
+
+
+recentarticle{
+    font-family: 'Georama', sans-serif;
+}
+
+#Articlecontent{
+  padding-bottom: 5rem;
+  padding-top: 5rem;
+    
+}
+
+#Search{
+   
+   
+    background: rgb(195,178,178);
+    background: linear-gradient(90deg, rgba(195,178,178,1) 0%, rgba(228,217,217,1) 0%, rgba(0,0,0,1) 0%);    
+    color: white;
+   margin-top: 5rem;
+   padding-bottom: 5rem;
+
+}
+
+
+#footer{
+    background-color: #5b5b5b;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    font-family: 'Georama', sans-serif;
+ 
+    color: white;
+}
+/* adjusted CSS of the above custom element */
